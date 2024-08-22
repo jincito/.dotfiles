@@ -1,7 +1,0 @@
-[Default Applications]
-text/x-lua=nvim.desktop
-application/x-fishscript=nvim.desktop
-
-[Added Associations]
-text/x-lua=nvim.desktop;
-application/x-fishscript=nvim.desktop;
