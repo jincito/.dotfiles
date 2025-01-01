@@ -19,6 +19,7 @@
   ca = commit -a
   ps = "!git push origin $(git rev-parse --abbrev-ref HEAD)"
   pl = "!git pull origin $(git rev-parse --abbrev-ref HEAD)"
+  pr = pull --rebase
   st = status
   br = branch
   ba = branch -a
